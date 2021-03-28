@@ -6,4 +6,4 @@ In order to choose the machine learning algorithms best suited to make predictio
 Considering that the problem is to predict a numerical value several options such as follows could be chosen:
 
 Linear Regression: Can be chosen if the variables show a linear correlation with the label. If the correlation is not linear, the linear regression model would not be accurate.
-© 2021 GitHub, Inc.
+
